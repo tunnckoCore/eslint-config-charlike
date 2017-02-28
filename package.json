@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-charlike",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Code style: Charlike. Self preferences on top of Standard Style v9 release. They may or may not be included in next releases.",
   "repository": "tunnckoCore/eslint-config-charlike",
   "author": "Charlike Mike Reagent <@tunnckoCore> (https://i.am.charlike.online)",
