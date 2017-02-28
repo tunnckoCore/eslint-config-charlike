@@ -1,0 +1,35 @@
+{
+  "extends": ["standard", "standard-jsx"],
+  "plugins": ["promise", "react"],
+  "rules": {
+    "computed-property-spacing": ["error", "never"],
+
+    "promise/param-names": "error",
+
+    "max-len": ["error", {
+      "ignoreTemplateLiterals": false,
+      "ignoreComments": true
+    }],
+    "max-params": "error",
+    "max-statements": "error",
+    "max-statements-per-line": ["error", { "max": 1 }],
+    "max-nested-callbacks": ["error", { "max": 5 }],
+    "max-depth": ["error", { "max": 5 }],
+
+    "quote-props": ["error", "consistent-as-needed", { "keywords": true }],
+    "arrow-body-style": ["error", "as-needed", {
+      "requireReturnForObjectLiteral": false
+    }],
+    "arrow-parens": ["error", "always"],
+    "no-confusing-arrow": "error",
+    "no-extra-semi": "error",
+    "no-empty": ["error", { "allowEmptyCatch": true }],
+
+    "prefer-destructuring": ["error", {
+      "array": true,
+      "object": true
+    }, {
+      "enforceForRenamedProperties": true
+    }]
+  }
+}
