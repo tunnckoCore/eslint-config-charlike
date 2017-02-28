@@ -1,11 +1,9 @@
 # eslint-config-charlike [![NPM version](https://img.shields.io/npm/v/eslint-config-charlike.svg?style=flat)](https://www.npmjs.com/package/eslint-config-charlike) [![NPM monthly downloads](https://img.shields.io/npm/dm/eslint-config-charlike.svg?style=flat)](https://npmjs.org/package/eslint-config-charlike) [![npm total downloads][downloads-img]][downloads-url]
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/tunnckoCore/eslint-config-charlike.svg)](https://greenkeeper.io/)
-
 > Code style: Charlike. Self preferences on top of Standard Style v9 release. They may or may not be included in next releases.
 
+[![code-style-charlike][charlike-img]][charlike-url]
 [![codeclimate][codeclimate-img]][codeclimate-url] 
-[![codestyle][standard-img]][standard-url] 
 [![linux build][travis-img]][travis-url] 
 [![windows build][appveyor-img]][appveyor-url] 
 [![codecov][coverage-img]][coverage-url] 
@@ -201,6 +199,6 @@ _Project scaffolded using [charlike][] cli._
 [david-url]: https://david-dm.org/tunnckoCore/eslint-config-charlike
 [david-img]: https://img.shields.io/david/tunnckoCore/eslint-config-charlike.svg
 
-[standard-url]: https://github.com/tunnckoCore/eslint-config-charlint
-[standard-img]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
+[charlike-img]: https://img.shields.io/badge/code%20style-charlike-536dfe.svg
+[charlike-url]: https://github.com/tunnckoCore/eslint-config-charlike
 

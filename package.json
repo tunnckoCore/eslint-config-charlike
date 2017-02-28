@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-charlike",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Code style: Charlike. Self preferences on top of Standard Style v9 release. They may or may not be included in next releases.",
   "repository": "tunnckoCore/eslint-config-charlike",
   "author": "Charlike Mike Reagent <@tunnckoCore> (https://i.am.charlike.online)",
@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "commitizen": "^2.9.6",
-    "cz-conventional-changelog": "^2.0.0",
+    "cz-conventional-changelog": "^1.2.0",
     "eslint": "^3.16.1",
     "mukla": "^0.4.8",
     "npm-run-all": "^4.0.1",
