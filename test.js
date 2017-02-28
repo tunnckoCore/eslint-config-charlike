@@ -24,7 +24,7 @@ test('eslint-config-charlike', (done) => {
 test('load config in eslint to validate all rule syntax is correct', (done) => {
   const cli = new eslint.CLIEngine({
     useEslintrc: false,
-    configFile: './.eslintrc'
+    configFile: './config.json'
   })
 
   const code = 'var foo = (a, b, c, d) => 123'

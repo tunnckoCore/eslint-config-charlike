@@ -8,6 +8,6 @@
 'use strict'
 
 const fs = require('fs')
-const value = fs.readFileSync('./.eslintrc', 'utf8')
+const value = fs.readFileSync('./config.json', 'utf8')
 
 module.exports = JSON.parse(value)
