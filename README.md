@@ -1,5 +1,7 @@
 # eslint-config-charlike [![NPM version](https://img.shields.io/npm/v/eslint-config-charlike.svg?style=flat)](https://www.npmjs.com/package/eslint-config-charlike) [![NPM monthly downloads](https://img.shields.io/npm/dm/eslint-config-charlike.svg?style=flat)](https://npmjs.org/package/eslint-config-charlike) [![npm total downloads][downloads-img]][downloads-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tunnckoCore/eslint-config-charlike.svg)](https://greenkeeper.io/)
+
 > Code style: Charlike. Self preferences on top of Standard Style v9 release. They may or may not be included in next releases.
 
 [![codeclimate][codeclimate-img]][codeclimate-url] 
