@@ -20,7 +20,7 @@
     "commit": "npm-run-all -s test git"
   },
   "dependencies": {
-    "eslint-config-standard": "^7.0.0-beta.0",
+    "eslint-config-standard": "^10.2.0",
     "eslint-config-standard-jsx": "^3.3.0",
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-react": "^6.10.0",
